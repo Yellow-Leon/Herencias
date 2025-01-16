@@ -13,7 +13,6 @@ public class Main {
         truck.move();
         truck.showInfo();
         truck.move();
-
         truck.showInfo();
     }
 }
