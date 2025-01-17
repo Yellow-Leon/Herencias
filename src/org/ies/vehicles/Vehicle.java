@@ -14,7 +14,7 @@ public abstract class Vehicle {
 
     public void move (){
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Distancia recorrida");
+        System.out.println("Introduzca la distancia recorrida");
         kmCount += scanner.nextDouble();
         System.out.println(kmCount);
     }
